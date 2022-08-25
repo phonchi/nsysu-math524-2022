@@ -17,7 +17,7 @@ permalink: /materials/
 
 ## MOOC
 
-* [Trevor Hastie and Rob Tibshirani](https://www.dataschool.io/15-hours-of-expert-machine-learning-videos/)
+* [Trevor Hastie and Rob Tibshirani](https://www.statlearning.com/online-course)
 * [Hamed Hasheminia](https://www.youtube.com/watch?v=3jQs02dbfrI&list=PL06ytJZ4Ak1rXmlvxTyAdOEfiVEzH00IK&index=2)
 
 ## Resources
@@ -37,12 +37,14 @@ permalink: /materials/
 * [Kaggle Python tutorial](https://www.kaggle.com/learn/python)
 * [Python for everybody](https://www.py4e.com/)
 * [Python 台灣社群](http://python.org.tw/Python/%E7%AC%AC%E4%B8%80%E6%AC%A1%E7%94%A8%E5%B0%B1%E4%B8%8A%E6%89%8B)
-* [Python scientific computing](https://scipy-lectures.org/)
+
 
 ### Learning Python libraries
+* [Python scientific computing](https://scipy-lectures.org/)
+* [Python Data Science Handbook](https://github.com/jakevdp/PythonDataScienceHandbook)
+* [Python for Data Analysis](https://wesmckinney.com/book/)
 * [NumPy for R user](http://mathesaurus.sourceforge.net/r-numpy.html)
 * [NumPy for Matlab user](https://numpy.org/doc/stable/user/numpy-for-matlab-users.html)
-* [Python Data Science Handbook](https://github.com/jakevdp/PythonDataScienceHandbook)
 
 ### Learning Markdown
 * [CommonMark](https://commonmark.org/)
@@ -56,8 +58,8 @@ permalink: /materials/
 
 ### Plotting
 * [Seaborn](https://seaborn.pydata.org/index.html)
-* [plotnine](https://github.com/has2k1/plotnine)
 * [Yellowbrick](https://github.com/DistrictDataLabs/yellowbrick)
+* [plotnine](https://github.com/has2k1/plotnine)
 
 ### Modeling
 * [Scikit-learn](https://scikit-learn.org/stable/)

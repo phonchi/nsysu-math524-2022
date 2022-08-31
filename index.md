@@ -7,4 +7,6 @@ Join our [Facebook Group](https://www.facebook.com/groups/639876774414538) to di
 
 Office hour:  Mon. 16:00-18:00 and Wed. 16:00-18:00
 
+TA hour: Thur. 15:00~17:00 (竣皓) and Thur. 14:00~16:00 (柏呈)
+
 

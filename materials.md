@@ -43,7 +43,7 @@ permalink: /materials/
 * [Python scientific computing](https://scipy-lectures.org/)
 * [Python Data Science Handbook](https://github.com/jakevdp/PythonDataScienceHandbook)
 * [Python for Data Analysis](https://wesmckinney.com/book/)
-* [NumPy for R user](http://mathesaurus.sourceforge.net/r-numpy.html)
+* [NumPy for R user](http://mathesaurus.sourceforge.net/r-numpy.html) and [here](https://www.mit.edu/~amidi/teaching/data-science-tools/conversion-guide/r-python-data-manipulation/)
 * [NumPy for Matlab user](https://numpy.org/doc/stable/user/numpy-for-matlab-users.html)
 
 ### Learning Markdown

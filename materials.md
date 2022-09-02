@@ -52,6 +52,9 @@ permalink: /materials/
 
 ## Libraries
 
+### From scratch
+* [Machine learning from scratch](https://dafriedman97.github.io/mlbook/content/introduction.html)
+
 ### Data manipulation
 * [Pandas](https://pandas.pydata.org/)
 * [NumPy](https://numpy.org/)
@@ -59,7 +62,6 @@ permalink: /materials/
 ### Plotting
 * [Seaborn](https://seaborn.pydata.org/index.html)
 * [Yellowbrick](https://github.com/DistrictDataLabs/yellowbrick)
-* [plotnine](https://github.com/has2k1/plotnine)
 
 ### Modeling
 * [Scikit-learn](https://scikit-learn.org/stable/)

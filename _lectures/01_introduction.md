@@ -10,7 +10,7 @@ links:
       name: Slides
     - url: /static_files/presentations/Chapter1_Lab.ipynb
       name: Lab
-    - url: /static_files/presentations/ISLR2.pdf
+    - url: /static_files/presentations/Dataset.pdf
       name: Dataset description
     - url: /static_files/presentations/Data.zip
       name: Dataset

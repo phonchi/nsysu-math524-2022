@@ -8,7 +8,7 @@ attachment: /static_files/assignments/Assignment1.ipynb
 <!-- solutions: /static_files/assignments/asg_solutions.pdf -->
 due_event: 
     type: due
-    date: 2022-09-12T09:00:00
+    date: 2022-09-19T09:00:00
     description: 'Assignment #1 due'
 description: '這次的作業總共有 4 大題 (見附檔)'
 ---

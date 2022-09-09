@@ -32,6 +32,10 @@ permalink: /materials/
 * [Kaggle](https://www.kaggle.com/datasets)
 * [Google dataset search](https://datasetsearch.research.google.com/)
 
+### Learning Statistics
+* [OpenIntro Statistics](https://www.openintro.org/book/os/)
+* [Statistics Online](https://online.stat.psu.edu/statprogram/)
+
 ### Learning Python
 * [Learn X in Y minutes](https://learnxinyminutes.com/docs/python/)
 * [Kaggle Python tutorial](https://www.kaggle.com/learn/python)

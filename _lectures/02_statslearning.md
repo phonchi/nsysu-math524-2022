@@ -22,4 +22,5 @@ links:
 - [MultiCore](/nsysu-math524/static_files/presentations/MultiCore.ipynb)
 - [GPU](/nsysu-math524/static_files/presentations/GPU.ipynb)
 - [Video for HPC](https://www.youtube.com/playlist?list=PLHNZtBNWQ-87x20x0lTo26AJiCOUJ8YqP)
+- [[Recorded video]](https://youtube.com/playlist?list=PLHNZtBNWQ-85LyQnw70P-VSBUr5tD_4XD)
 

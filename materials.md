@@ -35,6 +35,7 @@ permalink: /materials/
 ### Learning Statistics
 * [OpenIntro Statistics](https://www.openintro.org/book/os/)
 * [Statistics Online](https://online.stat.psu.edu/statprogram/)
+* [StatQuest](https://www.youtube.com/c/joshstarmer/playlists)
 
 ### Learning Python
 * [Learn X in Y minutes](https://learnxinyminutes.com/docs/python/)

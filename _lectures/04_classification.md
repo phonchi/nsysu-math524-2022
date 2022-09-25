@@ -8,11 +8,10 @@ hide_from_announcments: true
 links: 
     - url: /static_files/presentations/04_Classification.pdf
       name: Slides
-    - url: /static_files/presentations/Chapter_4_Lab.ipynb
-      name: Lab
 
 ---
 **Suggested Readings:**
+- [Lab](https://github.com/phonchi/nsysu-math524/blob/master/static_files/presentations/Chapter_4_Lab.ipynb)
 - ISLR Chapter 4
 - ESL Chapter 4
 - PSDS Chapter 5

@@ -15,4 +15,5 @@ links:
 - ISLR Chapter 4
 - ESL Chapter 4
 - PSDS Chapter 5
+- [[Recorded video]](https://youtube.com/playlist?list=PLHNZtBNWQ-87uOhT09zEO-wQkUMrI-YaQ)
 

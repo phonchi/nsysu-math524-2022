@@ -2,7 +2,7 @@
 type: assignment
 date: 2022-09-27T14:30:00
 title: 'Assignment #4'
-attachment: /static_files/assignments/Assignment4.ipynb
+attachment: /static_files/assignments/Assignment 4.ipynb
 due_event: 
     type: due
     date: 2022-10-03T09:00:00

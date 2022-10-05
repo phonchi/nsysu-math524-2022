@@ -7,6 +7,5 @@ due_event:
     type: due
     date: 2022-10-17T09:00:00
     description: 'Assignment #5 due'
-description: '本週題目一共四題。
-
+description: '本週題目一共四題。'
 ---

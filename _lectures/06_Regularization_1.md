@@ -8,11 +8,10 @@ hide_from_announcments: true
 links: 
     - url: /static_files/presentations/06_Linear_Model_Selection.pdf
       name: Slides
-    - url: /static_files/presentations/Chapter_6_Lab.ipynb
-      name: Lab
 
 ---
 **Suggested Readings:**
+- [Lab](https://github.com/phonchi/nsysu-math524/blob/master/static_files/presentations/Chapter_5_Lab.ipynb)
 - ISLR Chapter 6
 - ESL Chapter 7.1-7.7, Chapter3.3-3.4
 - PSDS Chapter 4

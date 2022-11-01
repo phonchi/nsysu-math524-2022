@@ -8,11 +8,10 @@ hide_from_announcments: true
 links: 
     - url: /static_files/presentations/07_Moving_Beyond_Linearity.pdf
       name: Slides
-    - url: /static_files/presentations/Chapter_7_Lab.ipynb
-      name: Lab
 
 ---
 **Suggested Readings:**
+- [Lab](https://github.com/phonchi/nsysu-math524/blob/master/static_files/presentations/Chapter_7_Lab.ipynb)
 - ISLR Chapter 7
 - ESL Chapter 5~6.1
 - PSDS Chapter 4

@@ -13,7 +13,7 @@ links:
 **Suggested Readings:**
 - [Lab](https://github.com/phonchi/nsysu-math524/blob/master/static_files/presentations/Chapter_7_Lab.ipynb)
 - ISLR Chapter 7
-- ESL Chapter 5~6.1
+- ESL Chapter 5~6.1 and 9.1
 - PSDS Chapter 4
 
 

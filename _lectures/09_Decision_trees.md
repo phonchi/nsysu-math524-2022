@@ -8,8 +8,6 @@ hide_from_announcments: true
 links: 
     - url: /static_files/presentations/08_Tree-Based_Methods.pdf
       name: Slides
-    - url: /static_files/presentations/Chapter_8_Lab.ipynb
-      name: Lab
 
 ---
 **Suggested Readings:**

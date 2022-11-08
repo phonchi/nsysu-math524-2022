@@ -8,8 +8,6 @@ hide_from_announcments: true
 links: 
     - url: /static_files/presentations/09_Support_Vector_Machines.pdf
       name: Slides
-    - url: /static_files/presentations/Chapter_9_Lab.ipynb
-      name: Lab
 
 ---
 **Suggested Readings:**

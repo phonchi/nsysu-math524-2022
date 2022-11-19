@@ -1,7 +1,7 @@
 ---
 type: lecture
 date: 2022-12-05
-title: Unsupervised_learning
+title: Unsupervised_learning/Teaching Evaluation Survey and evaluation questionnaire
 tldr: 
 thumbnail: 
 hide_from_announcments: true

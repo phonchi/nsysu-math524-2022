@@ -13,6 +13,6 @@ links:
 **Suggested Readings:**
 - [Lab](https://github.com/phonchi/nsysu-math524/blob/master/static_files/presentations/Chapter_8_Lab.ipynb)
 - ISLR Chapter 8
-- ESL Chapter 9,10,15,16
+- ESL Chapter 8,9,10,15,16
 - PSDS Chapter 6
 - [[Recorded video]](https://youtube.com/playlist?list=PLHNZtBNWQ-87H5S8_4JEJZr8PyiAKRKxa)

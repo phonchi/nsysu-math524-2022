@@ -10,6 +10,6 @@ links:
 ---
 **Suggested Readings:**
 - ISLR Chapter 8
-- ESL Chapter 9,10,15,16
+- ESL Chapter 8,9,10,15,16
 - PSDS Chapter 6
 

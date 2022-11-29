@@ -10,4 +10,4 @@ links:
 ---
 **Suggested Readings:**
 - ISLR Chapter 12
-- ESL Chapter 6,12
+- ESL Chapter 13,14

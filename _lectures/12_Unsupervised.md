@@ -14,3 +14,4 @@ links:
 - [Lab](https://github.com/phonchi/nsysu-math524/blob/master/static_files/presentations/Chapter_12_Lab.ipynb)
 - ISLR Chapter 12
 - ESL Chapter 13,14
+- [[Recorded video]](https://youtube.com/playlist?list=PLHNZtBNWQ-84LjWrmZdCQhaH9JnVZbiE7)

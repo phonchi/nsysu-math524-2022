@@ -11,3 +11,4 @@ links:
 **Suggested Readings:**
 - ISLR Chapter 12
 - ESL Chapter 13,14
+- [[Recorded video]](https://youtube.com/playlist?list=PLHNZtBNWQ-84AIcgdUTGC6xIyP9R9Bn_k)
